@@ -51,7 +51,7 @@ inquirer
             },{
               type: 'input',
               name: 'questions',
-              message: 'Enter tests instructions:',
+              message: 'Enter your mail to reach you for more questions:',
             },
 
 ])
