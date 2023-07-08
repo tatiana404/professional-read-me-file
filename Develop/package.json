@@ -1,14 +1,20 @@
 {
-  "name": "static-site",
+  "name": "professional-read-me-file",
   "version": "1.0.0",
-  "description": "",
+  "description": "A professional github README generator that provide developers with requirements and specification of the project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^6.3.1"
+
+   "repository": {
+   "type": "git",
+    "url": "https://github.com/tatiana404/professional-read-me-file/tree/main"
+  },
+   
+   "author": "Tetiana Peutina",
+   "license": "MIT",
+   "dependencies": {
+   "inquirer": "^6.5.2"
   }
 }
